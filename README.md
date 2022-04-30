@@ -1,1 +1,7 @@
-# pw2-lab01
+<h1 align="center">Hola 👋, Soy Joaquin Gonzalo Paredes Mescco</h1>
+<h3 align="center">Soy estudiante de la facultad produccion y servicios de la escuela Ing. de Sistemas en la UNSA</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Lenguajes de programacion usados:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" </p>
