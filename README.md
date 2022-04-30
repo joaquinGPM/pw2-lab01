@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Joaquin Gonzalo Paredes Mescco</h1>
-<h3 align="center">Soy estudiante de la facultad produccion y servicios de la escuela Ing. de Sistemas en la UNSA</h3>
+<h3 align="center">Soy estudiante de la Facultad de Produccion y Servicios de la Escuela de Ing. de Sistemas en la UNSA</h3>
 <p align="left">
 </p>
 
